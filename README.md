@@ -8,3 +8,5 @@ This workbook is a practice of deep learning with pytorch lesson of the course. 
 This section describes the simple layout of a perceptron and calculates the output using matrix multiplication and then adds another layer, defines the weights and biases and then computes the output using pytorch matrix multiplication.
 
 ### Part 2 Neural Networks in PyTorch
+
+![mnist](https://github.com/shahzina/Deep-Learning-with-Pytorch/blob/master/assets/mnist.png)⁩
