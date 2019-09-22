@@ -12,3 +12,5 @@ This section describes the simple layout of a perceptron and calculates the outp
 #### Part 2 Neural Networks in PyTorch
 
 ![mnist](https://github.com/shahzina/Deep-Learning-with-Pytorch/blob/master/assets/mnist.png)⁩
+
+Uses the pyTorch library to import and transform data, we're working with the MNIST dataset in this section. Goes through different stages of building a neural network architecture in three different ways. 
